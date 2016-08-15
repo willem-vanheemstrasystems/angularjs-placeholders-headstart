@@ -3,6 +3,8 @@ AngularJS Placeholders - Headstart
 
 Based on 'Placeholders' at http://ngbp.github.io/ngbp/#/about
 
+Find the repository at http://joshdmiller.github.io/angular-placeholders/
+
 #Placeholders
 
 Angular Placeholders is a simple library for mocking up text and images. You can automatically throw around some "lorem ipsum" text:
