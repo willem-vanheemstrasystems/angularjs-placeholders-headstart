@@ -35,6 +35,9 @@ Gives you this:
 
 ![Image](../blob/master/public_html/img/nokia.png?raw=true)
 
-<img ph-img="50x50" class="ng-isolate-scope" title="50x50" alt="50x50" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACf0lEQVRoQ+1VC4txURRdIibjNYWIvCITyqPm//8B78R4JOQ1GpciQpj2KZpR5n7OzCnNd06pG866ez323hpFUY74A0cjidyZi9KROzME0hHpiCAFZLQECcsNKx3hlk7QRemIIGG5YaUj3NIJuigdESQsN+z/5Ui320Wz2fyiVjgcRiAQwPv7O+r1OtbrNQwGA4LBILxer6qyv435T45UKhVMJhPEYjG4XK5zkbvdDtlsFsfjEalUCq+vr1gul0gmk7Bard+S+W1MVSJUbC6Xw2azQSaTgdlsPhc4Ho9Rq9XgdDoRj8fR6XTQarXg9/sRiUSuEhGBqUqEFM7n86CX09FoNHC73YhGo+j1el8KPxFzOBywWCwsjkajkQlAz/Q73fX5fCgUCjdjJhKJq+KoEqFIUWQeHx9BQI1Gg8UsFAqxvhgOhzj1y4mIyWRixZdKJcxmM9jtdiiKgoeHBxbBxWLBhfny8sJP5PLm29sbqtUqixipfY0IvXQ+n6NcLmO73UKr1eL5+Zk58hPMa0xUHbm8SGpS1IgERehzT3yOFrlHQ6BYLGI6nTJHySWabD/B/DUip2JtNhtTl9yhZqfCT81OsaPPaDRiETocDowUjWVy5fLcgslNZDAYsD3x9PTExi/1CO0OeqYRS+7QuRy/er2eNTRNO9o3/X4f+/2eTTeKGg/mdyNdNVqkJk0c6gUqRKfTsaVHI5YO9QG5slqtzgvR4/Gw78gR2jtUfLvdZo5RxNLpNHu+BVNtyaoSUV3Rd/IHSeROjDiXIR2RjghSQEZLkLDcsNIRbukEXZSOCBKWG1Y6wi2doIvSEUHCcsNKR7ilE3RROiJIWG7YP+PIB17XeZP8OKTpAAAAAElFTkSuQmCC">
+![Image](../blob/master/img/none.png?raw=true)
+![Image](../blob/master/img/img-polaroid.png?raw=true)
+![Image](../blob/master/img/img-rounded.png?raw=true)
+![Image](../blob/master/img/img-circle.png?raw=true)
 
 Which is awesome.
