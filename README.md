@@ -33,13 +33,6 @@ Even more exciting, you can also create placeholder images, entirely client-side
 
 Gives you this:
 
-50x50  50x50  50x50  50x50
-
-![Image](../blob/master/public_html/img/nokia.png?raw=true)
-
-![Image](../master/img/none.png?raw=true)
-![Image](../master/img/img-polaroid.png?raw=true)
-![Image](../master/img/img-rounded.png?raw=true)
-![Image](../master/img/img-circle.png?raw=true)
+![Image](../master/img/all.png?raw=true)
 
 Which is awesome.
