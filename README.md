@@ -35,9 +35,9 @@ Gives you this:
 
 ![Image](../blob/master/public_html/img/nokia.png?raw=true)
 
-![Image](../blob/master/img/none.png?raw=true)
-![Image](../blob/master/img/img-polaroid.png?raw=true)
-![Image](../blob/master/img/img-rounded.png?raw=true)
-![Image](../blob/master/img/img-circle.png?raw=true)
+![Image](../master/img/none.png?raw=true)
+![Image](../master/img/img-polaroid.png?raw=true)
+![Image](../master/img/img-rounded.png?raw=true)
+![Image](../master/img/img-circle.png?raw=true)
 
 Which is awesome.
